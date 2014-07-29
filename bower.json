@@ -1,0 +1,22 @@
+{
+  "name": "turistaphil",
+  "version": "1.0",
+  "authors": [
+    "johnleonard0105 <bonillajoemarie@gmail.com>"
+  ],
+  "description": "Tour Pinas",
+  "main": "public/index.php",
+  "keywords": [
+    "pinas"
+  ],
+  "license": "MIT",
+  "homepage": "turistaphil.tk",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
